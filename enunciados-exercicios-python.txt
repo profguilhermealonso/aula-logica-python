@@ -1,0 +1,4 @@
+1. Calculadora de Média
+2. Verificador de Número Par ou Ímpar
+3. Conversor de Temperatura
+4. Calculadora de IMC
